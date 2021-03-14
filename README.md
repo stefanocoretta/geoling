@@ -8,7 +8,7 @@ This repository contains a collection of maps and GIS data concerning languages 
 
 The maps are organised in *dialang directories*, i.e. directories named after the [glottocode](https://glottolog.org) of the *dialang(s)* (macro-family, family, language, variety, idiolect, etc; aka languoids) represented in the maps.
 
-Note that attempt is made to maintain a hierarchical directory structure that reflects genetic classification.
+Note that no attempt is made to maintain a hierarchical directory structure that reflects genetic classification.
 
 Within the dialang directories, the naming convention of the *map directories*---each containing the files of a single map---is `glottocode-ID_XX`, where:
 
