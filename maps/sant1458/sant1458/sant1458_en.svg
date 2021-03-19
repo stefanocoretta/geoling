@@ -64,12 +64,12 @@
                 <text id="tspan4175" fill="#000000" fill-rule="nonzero" font-family="Lato-Regular, Lato" font-size="28" font-weight="normal">
                     <tspan x="144.84979" y="208.02927">Zabana</tspan>
                 </text>
-                <text id="recent-Cheke-Holo-en" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
+                <text id="text4" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
                     <tspan x="356.85203" y="327.02701">recent</tspan>
                     <tspan x="334.30328" y="352.02701">Cheke Holo</tspan>
                     <tspan x="346.95053" y="377.02701">enclaves</tspan>
                 </text>
-                <text id="mixed-Cheke-Holo-Bug" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
+                <text id="text3" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
                     <tspan x="864.39917" y="298.42477">mixed</tspan>
                     <tspan x="840.43817" y="323.42477">Cheke Holo</tspan>
                     <tspan x="849.16892" y="348.42477">Bughotu*</tspan>
@@ -86,18 +86,18 @@
                 <text id="tspan4243" fill="#000000" fill-rule="nonzero" font-family="Lato-Regular, Lato" font-size="28" font-weight="normal">
                     <tspan x="537.49255" y="507.67426">Cheke Holo</tspan>
                 </text>
-                <text id="Bughotu*" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
+                <text id="text2" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
                     <tspan x="796.98993" y="528.91467">Bughotu*</tspan>
                 </text>
-                <text id="formerly-Laghu,-now" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
+                <text id="text1" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
                     <tspan x="398.30648" y="21.06281">formerly Laghu,</tspan>
                     <tspan x="412.11923" y="46.06281">now Zabana</tspan>
                 </text>
-                <text id="*Bughotu-is-a-Southe" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
+                <text id="text" fill="#000000" fill-rule="nonzero" font-family="Lato-Italic, Lato" font-size="21" font-style="italic" font-weight="normal">
                     <tspan x="0.62061" y="532.408">*Bughotu is a Southeast Solomonic language</tspan>
                 </text>
             </g>
-            <text id="Santa-Isabel-languages" font-family="Lato-Black, Lato" font-size="36" font-weight="800" fill="#000000">
+            <text id="title" font-family="Lato-Black, Lato" font-size="36" font-weight="800" fill="#000000">
                 <tspan x="598.547" y="73">Santa Isabel languages</tspan>
             </text>
         </g>
