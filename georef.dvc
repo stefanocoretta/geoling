@@ -1,0 +1,5 @@
+outs:
+- md5: 57a5fd8ea512b473d00ae6ef320a574a.dir
+  size: 4054899
+  nfiles: 3
+  path: georef
