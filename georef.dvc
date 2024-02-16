@@ -1,5 +1,6 @@
 outs:
-- md5: a4f09b136fbb46aadeea9a42fbb8de89.dir
-  size: 5855137
-  nfiles: 3
+- md5: 79c4650ead33ea2b16872de0a3d3fc1f.dir
+  size: 5851304
+  nfiles: 4
   path: georef
+  hash: md5
