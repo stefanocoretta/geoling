@@ -1,0 +1,3 @@
+- Boerger, Brenda H. 2007. Natqgu literacy: Capturing three domains for written language use. Language Documentation & Conservation 1(2). 126–153.
+- Evans, Bethwyn. 2009. Discovering history through language: papers in honour of Malcolm Ross. http://hdl.handle.net/1885/146753.
+- Map of the Solomon Islands at Ethnologue (2015) http://www.ethnologue.com/map/SB

@@ -1,0 +1,2 @@
+- Gjinari, Jorgji. 1988. Dialektologjia shqiptare. Tiranë: Akademia e Shkencave të Shqipërisë.
+- Eslie, Robert & Joseph Gross. 2009. Albanian dialects. http://dialects.albanianlanguage.net.
