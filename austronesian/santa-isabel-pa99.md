@@ -1,1 +1,2 @@
 - Palmer, Bill. 1999. Voiceless sonorants–phonemes or underlying clusters? Australian Journal of Linguistics 19(1). 77–88. https://doi.org/10.1080/07268609908599575.
+- Base map: Location map of the Solomon Islands by [NordNordWest](https://commons.wikimedia.org/wiki/User:NordNordWest). CC-BY 3.0. https://commons.wikimedia.org/wiki/File:Solomon_Islands_location_map.svg

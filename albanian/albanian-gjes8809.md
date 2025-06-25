@@ -1,2 +1,3 @@
 - Gjinari, Jorgji. 1988. Dialektologjia shqiptare. Tiranë: Akademia e Shkencave të Shqipërisë.
 - Eslie, Robert & Joseph Gross. 2009. Albanian dialects. http://dialects.albanianlanguage.net.
+- Base map: Map of Europe, showing national borders by [Júlio Reis](https://commons.wikimedia.org/wiki/User:Tintazul). CC-BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Europe_countries.svg

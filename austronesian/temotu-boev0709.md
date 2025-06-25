@@ -1,3 +1,4 @@
 - Boerger, Brenda H. 2007. Natqgu literacy: Capturing three domains for written language use. Language Documentation & Conservation 1(2). 126–153.
 - Evans, Bethwyn. 2009. Discovering history through language: papers in honour of Malcolm Ross. http://hdl.handle.net/1885/146753.
-- Map of the Solomon Islands at Ethnologue (2015) http://www.ethnologue.com/map/SB
+- Map of the Solomon Islands at Ethnologue (2015) http://www.ethnologue.com/map/SB.
+- Base map: Location map of the Solomon Islands by [NordNordWest](https://commons.wikimedia.org/wiki/User:NordNordWest). CC-BY 3.0. https://commons.wikimedia.org/wiki/File:Solomon_Islands_location_map.svg

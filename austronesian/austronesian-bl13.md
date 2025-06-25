@@ -1,1 +1,2 @@
 - Blust, Robert A. 2013. The Austronesian languages. Asia-Pacific Linguistics ANU.
+- Base map from https://www.amcharts.com/svg-maps/?map=worldIndia. CC-BY-NC 4.0 International.
